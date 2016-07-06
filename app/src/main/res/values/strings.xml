@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打折菜</string>
+    <string name="empty">目前附近没有打折信息</string>
+    <string name="menu_insert">发布打折信息</string>
+    <string name="content">输入商品信息，打折时间，原因等</string>
+    <string name="confirm">完成</string>
+    <string name="create_todo">发布打折消息</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_search">搜索</string>
+</resources>
